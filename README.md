@@ -4,5 +4,5 @@ As we have taken words from a book 'moby.txt'. In the same way there are some wo
 
 ## Working Demo
 
-./screenshots/auto_correct_feature.png
+![Project](./screenshots/auto_correct_feature.png)
 
